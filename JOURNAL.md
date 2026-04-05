@@ -23,4 +23,71 @@ Of course, to look aura, we'll need to have LEDs and other accessories.
 
 However, that begs the question. What type of LEDs? LED strips? what color? I'll try to answer that in my next journal.
 
+![inspiration image](Screenshots/masquerade_masks.png)
+
 Total hours spent: 0.2 hours
+
+# Entry 1 - 04-05-26: BRAINSTORMING part 2
+
+Alright, we didn't quite flourish the brainstorming last session so I'll finish it with this journal.
+
+
+So we know that we need:
+- A base mask (I can try to 3d print this one)
+- A LED
+- A coin cell battery (really small)
+    - Maybe this module from adafruit would work
+    https://www.adafruit.com/product/1871
+- Perhaps other sensors like accelerometers to make this project much cooler
+
+So let's try digging in to the LED
+
+I kinda wanna do something like this:
+
+![inspiration image](Screenshots/inspiration_design.jpg)
+
+Like with the electroluminescent wire and all.
+
+Thus, let's go try to find an electroluminescent wire. I mean, in the first place, what the hell is an electroluminescent wire?
+
+The difference between an electroluminescent wire and a LED strip is that:
+- LED strips arem uch briger, durable, and versatile for accent lighting
+- On the otherhand, EL wires are great for artistic purposes to add a dim, neon-like glow 
+
+According to various comparisons, EL wires win by a margin because it fits the shape of the mask perfectly.
+
+Okay, so apparently, the EL wire, when bought with a kit, doesn't need anymore external power source as it has its own AC inverters to keep it alive. That is pretty convenient on its own.
+
+However, an EL wire itself would make the mask still boring. Hence, why not add more features?
+
+Yeah, but honestly, before that, let's get the 3D design rolling first. But honestly, just buying a base mask is a better option. So, of course, we need to add gimmicks to the mask so that it at least can be different.
+
+Some gimmicks I can think of?
+- A sound sensor to sync w the beat?
+- 
+
+Okay but anyways, here's the summary:
+- We're going to be using an electroluminescent wire w a battery controller so that wiring does not get complicated
+    - in order to add arduino into that system, we just need to make some changes in the battery controller
+    - Keep in mind the the average battery controller for an EL wire is approx. 6cm x 3cm x 2cm
+- Then, after that we can try to implement the gimmicks we thought of.
+- Before that, we're going to 3d print the mask by having a fully custom 3d design
+
+Okay, so since we're 3D printing it, the 3D model should have these features:
+- Built-in wire routing: so that they automatically just snap in instead of glue
+- A back compartment for the controller and other electronics
+- Ventilation slots
+- Custom fit using my actual face measurements
+
+According to claude, here are the steps:
+- Sketch the outline shape from the front view (my very own front view)
+- Use the loft tool between a few profile curves to create the face curvature
+- Use shell to hollow it and set wall thickness
+- Cut eye holes with sketch + extrude cut
+- Add mounting points for elastic/string
+- Export STL
+
+
+Alright! Let's get to making this, shall we?
+
+Time spent: 1 hour
