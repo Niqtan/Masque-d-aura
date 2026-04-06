@@ -91,3 +91,22 @@ According to claude, here are the steps:
 Alright! Let's get to making this, shall we?
 
 Time spent: 1 hour
+
+# Entry 2 - 04-06-26: Making the base mask
+
+For this journal, I will be attempting to create the base mask in Fusion360.
+
+So first thing I did was that I went into Thingiverse and Printables to find a base 3D mask model I could use in order for me to model the base. And so, by using the STL file of my base mask, I can cut out holes based on my face measurements. Also, I could customize it to fit my electronic components accordingly.
+
+I think one of the best places to put my electronics in to make everything functional is to put like a side compartment on the mask. See the inspiration below.
+
+That way, it kind of blends in with the mask by having a design to it. And at the same time, we could have extra functionalities and gimmicks of the mask by adding electronic components to do those.
+
+Now, this begs the question:
+- What design should the side compartment have?
+
+I was thinking, differently for me and my date to have different masks. 
+
+Hence, I am going to be creating two different designs for this one.
+
+Total hours spent: 1 hour
