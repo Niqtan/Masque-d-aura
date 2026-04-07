@@ -110,3 +110,32 @@ I was thinking, differently for me and my date to have different masks.
 Hence, I am going to be creating two different designs for this one.
 
 Total hours spent: 1 hour
+
+# Entry 2 - 04-07-26: Making the side compartment from the base mask
+
+Okay I js had the most genius idea ever. What if, instead of meshing together both the side compartment and the base mask, we make them separate and then just stick them together?
+
+That way, I don't have to work with a curved surface and I could actually just model it (of course with measurements in mind). Hence, when I make a mistake, I can just 3D print the part instead of 3D printing the entire thing.
+
+Okay, now to get on with the design.
+
+For my mask I would like:
+- Some sort of cyberpunk style (I'll find an inspiration for that) with all the electroluminescent wires
+
+For her mask, I think she would like a cute style (maybe a lotus?)
+
+Anyways attached below is the progress so far of the side compartment of mine. I'm not really too sure about the design yet. I'm trying to make it look like a cyberpunk type of style, but it just looks like a normal box tbh. 
+
+Some ideas to make it better:
+- Maybe a rectangular visor like Soldier 76
+
+![alt text](Screensohts/76.png)
+
+
+Anyways here's my progress so far. Its definitely worth consideration regarding the side compartment to be like Soldier 76's but I'll think about that and keep it at the back of my mind.
+
+Next up: lotus flower design for my date!
+
+![alt text](Screenshots/first_design_draft.png)
+
+Total hours spent: 1 hour
