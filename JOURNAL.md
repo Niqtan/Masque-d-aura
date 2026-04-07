@@ -111,7 +111,7 @@ Hence, I am going to be creating two different designs for this one.
 
 Total hours spent: 1 hour
 
-# Entry 2 - 04-07-26: Making the side compartment from the base mask
+# Entry 3 - 04-07-26: Making the side compartment from the base mask
 
 Okay I js had the most genius idea ever. What if, instead of meshing together both the side compartment and the base mask, we make them separate and then just stick them together?
 
