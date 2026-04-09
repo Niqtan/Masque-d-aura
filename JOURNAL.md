@@ -140,7 +140,7 @@ Next up: lotus flower design for my date!
 
 Total hours spent: 1 hour
 
-# Entry 3 - 04-09-26: Making the side compartment from the base mask part 2
+# Entry 4 - 04-09-26: Making the side compartment from the base mask part 2
 
 Okay, I've made the casing. Now, my main problem is mainly trying to fit it in with my mask. Like, how will I make it so that it aesthetically fits well with my mask? Right now, it just looks like a rectangular box with some sort of weird design to it??
 
@@ -157,3 +157,12 @@ Okay so here's the final design of my side compartment:
 Next would be making the side compartment of the other mask for my date. I think she would definitely love a lotus or a petal.
 
 I will start with that, but I will first go on with ordering the components I need.
+
+When ordering Electroluminescent Wires, there are some things to keep in mind:
+1. The battery controller's measurements. It might not fit well in the casing.
+2. Also, since im planning to integrate some electronics into this, I'm highkey not sure if a microphone sensor would suffice.
+3. How would we route the electrical connections?
+
+I'll try to answer them in my next journal
+
+Total hours spent: 1
