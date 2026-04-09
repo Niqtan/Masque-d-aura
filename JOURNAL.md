@@ -139,3 +139,21 @@ Next up: lotus flower design for my date!
 ![alt text](Screenshots/first_design_draft.png)
 
 Total hours spent: 1 hour
+
+# Entry 3 - 04-09-26: Making the side compartment from the base mask part 2
+
+Okay, I've made the casing. Now, my main problem is mainly trying to fit it in with my mask. Like, how will I make it so that it aesthetically fits well with my mask? Right now, it just looks like a rectangular box with some sort of weird design to it??
+
+What if:
+- I made the base a curved thing? Then we like flip it vertically so that it sits on the mask vertically?
+
+Something like this:
+
+![alt text](Screenshots/base_mask_concept_design.png)
+
+Okay so here's the final design of my side compartment:
+![alt text](Screenshots/final_design_side_compartment_1.png.png)
+
+Next would be making the side compartment of the other mask for my date. I think she would definitely love a lotus or a petal.
+
+I will start with that, but I will first go on with ordering the components I need.
