@@ -140,7 +140,7 @@ Next up: lotus flower design for my date!
 
 Total hours spent: 1 hour
 
-# Entry 3 - 04-09-26: Making the side compartment from the base mask part 2
+# Entry 4 - 04-09-26: Making the side compartment from the base mask part 2
 
 Okay, I've made the casing. Now, my main problem is mainly trying to fit it in with my mask. Like, how will I make it so that it aesthetically fits well with my mask? Right now, it just looks like a rectangular box with some sort of weird design to it??
 
@@ -157,3 +157,40 @@ Okay so here's the final design of my side compartment:
 Next would be making the side compartment of the other mask for my date. I think she would definitely love a lotus or a petal.
 
 I will start with that, but I will first go on with ordering the components I need.
+
+
+# Entry 5 - 04-10-26: Making the side compartment of my date 
+
+Okay, so I got the dimensions of the battery controller from a call w my date:
+
+x: 3 CM
+y: 8 CM
+Z: 1 CM
+
+So for this design, I'll go try to model a 3D Lotus:
+
+![alt text](Screensohts/initial_draft_design.png)
+
+Okay so first design looked like this. Said to myself, "I'm not going to be able to put any electronic components inside of that lol." So iscrappyed that idea and went for a hexagonal lotus thingy.
+
+Alright, to accomodate the battery controller, I had to make the lotus with the measurements in mind. If the battery controller itself is 3 CM, then we'd need to find a good diameter for the base circle sketch.
+
+After searching, I found that a better alternative. The video I was watching, which was a tutorial on how to make a lotus-like 3D printed flower, ended up using circles.
+
+Also, I just don't think that the side compartment would be able store the battery controller itself. So what I was thinking is that we use the existing side compartment I have for me, duplicate that, and then add a front face into that would shape it into a lotus. Thus, we can definitely use both functionality and aesthetic to it.
+
+Here's the final of the lotus design: designs:
+
+![alt text](image-2.png)
+
+Anyways, I think we're all ready to 3D print those designs.
+
+As always, I'll lay out the final decisions made here:
+
+- I'll only use EL wires as electronics for this one so NO schematic or whatever.
+- The 3d printables are only for storing the battery controller
+- We'll use the base 3D mask
+
+I'll have someone from printing legion print it and ship it to us. Wish us luck!
+
+Total hours spent: 2 hours
