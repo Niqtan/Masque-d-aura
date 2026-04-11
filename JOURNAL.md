@@ -169,7 +169,7 @@ Z: 1 CM
 
 So for this design, I'll go try to model a 3D Lotus:
 
-![alt text](Screensohts/initial_draft_design.png)
+![alt text](Screenshots/initial_draft_design.png)
 
 Okay so first design looked like this. Said to myself, "I'm not going to be able to put any electronic components inside of that lol." So iscrappyed that idea and went for a hexagonal lotus thingy.
 
@@ -181,7 +181,7 @@ Also, I just don't think that the side compartment would be able store the batte
 
 Here's the final of the lotus design: designs:
 
-![alt text](image-2.png)
+![alt text](Screenshots/lotus_design.png)
 
 Anyways, I think we're all ready to 3D print those designs.
 
