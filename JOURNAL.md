@@ -152,7 +152,7 @@ Something like this:
 ![alt text](Screenshots/base_mask_concept_design.png)
 
 Okay so here's the final design of my side compartment:
-![alt text](Screenshots/final_design_side_compartment_1.png.png)
+![alt text](Screenshots/final_design_side_compartment_1.png)
 
 Next would be making the side compartment of the other mask for my date. I think she would definitely love a lotus or a petal.
 
@@ -194,3 +194,15 @@ As always, I'll lay out the final decisions made here:
 I'll have someone from printing legion print it and ship it to us. Wish us luck!
 
 Total hours spent: 2 hours
+
+
+# Entry 5 - 04-12-26: Doing the Zine and subbmitting design!
+
+Okay so for this I'm just completing the requirements for submitting a design.
+
+I apparently need to make a Zine.
+
+My idea is that:
+
+I have the mask with EL wires (drawn onto it badly) and the side compartments on the base mask
+Then I'll have a 2nd mask with the EL wires and the other side compartment, the lotus, which is for my date.
