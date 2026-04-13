@@ -30,11 +30,11 @@ Anyways! That's pretty much it for now. More features will come once the 3D prin
 ![alt text](Screenshots/lotus_design.png)
 
 ### Draft Design 1 - Cyberpunk
-![alt text](Screenshots/01.jpg)
+![alt text](Screenshots/01.png)
 
 
 ### Draft Design 2 - Lotus
-![alt text](Screenshots/02.jpg)
+![alt text](Screenshots/02.png)
 
 Notice: No lights yet because I can't seem to find a way to add lights to Fusion360 while rendering.
 
