@@ -206,3 +206,13 @@ My idea is that:
 
 I have the mask with EL wires (drawn onto it badly) and the side compartments on the base mask
 Then I'll have a 2nd mask with the EL wires and the other side compartment, the lotus, which is for my date.
+
+
+# Entry 6 - 04-13-26: Submitting the Zine Design
+
+So for this design, I got finished with making the Zine page for the masque d'aura.
+
+Here's the full magazine:
+
+
+![alt text](Screenshots/masque_magazine.jpg)

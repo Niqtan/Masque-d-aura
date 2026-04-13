@@ -14,6 +14,8 @@ Anyways! That's pretty much it for now. More features will come once the 3D prin
 
 ## Zine Page
 
+![alt text](Screenshots/masque_magazine.jpg)
+
 ## CAD
 
 ### Base Mask
@@ -26,6 +28,15 @@ Anyways! That's pretty much it for now. More features will come once the 3D prin
 ### Side Compartment 2 - Lotus
 
 ![alt text](Screenshots/lotus_design.png)
+
+### Draft Design 1 - Cyberpunk
+![alt text](Screenshots/01.jpg)
+
+
+### Draft Design 2 - Lotus
+![alt text](Screenshots/02.jpg)
+
+Notice: No lights yet because I can't seem to find a way to add lights to Fusion360 while rendering.
 
 
 ## 3D Printing
