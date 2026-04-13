@@ -196,7 +196,7 @@ I'll have someone from printing legion print it and ship it to us. Wish us luck!
 Total hours spent: 2 hours
 
 
-# Entry 5 - 04-12-26: Doing the Zine and subbmitting design!
+# Entry 6 - 04-12-26: Doing the Zine and subbmitting design!
 
 Okay so for this I'm just completing the requirements for submitting a design.
 
@@ -208,7 +208,7 @@ I have the mask with EL wires (drawn onto it badly) and the side compartments on
 Then I'll have a 2nd mask with the EL wires and the other side compartment, the lotus, which is for my date.
 
 
-# Entry 6 - 04-13-26: Submitting the Zine Design
+# Entry 7 - 04-13-26: Submitting the Zine Design
 
 So for this design, I got finished with making the Zine page for the masque d'aura.
 
