@@ -216,3 +216,21 @@ Here's the full magazine:
 
 
 ![alt text](Screenshots/masque_magazine.jpg)
+
+# Entry 7 - 04-22-26: Remodelling the Masks
+
+I quickly realized that storing the battery controller of the EL wires was no longer an option because:
+
+- Its too bulky to be put on the side of the mask
+- It's just way better if we put it on the back
+
+Hence, I'm just going to make the CAD Designs as actual designs. Its kinda aura when u tell someone u 3d printed ur mask sooo...
+
+Yeah but anyways, those 3d designs will have use sometime soon if i wanna add electronics into it.
+
+Anyways I will remodel em to have snap fits
+
+![alt text](Screenshots/lotus_snap_fits.png)
+
+![alt text](Screenshots/cyberpunk_snap_fits.png)
+
