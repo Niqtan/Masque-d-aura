@@ -38,6 +38,29 @@ Anyways! That's pretty much it for now. More features will come once the 3D prin
 
 Notice: No lights yet because I can't seem to find a way to add lights to Fusion360 while rendering.
 
+## Make one yourself!
+
+The fully 
+
+1. Go into CadDesign folder and install Plan_Mask.stl
+
+2. Go into your favorite slicer and then 3D Print it! 
+- I personally asked a friend who had a 3D Printer to print the plain mask for me! You can use any filament but I personally used PLA
+![alt text](Screenshots/base_mask.jpg)
+
+3. Order your electroluminescent wires!
+- I pesonally ordered mine from Lazada. It was actually my date who recommended me the vendor. But as long as you have a battery controller and the lights, all should be fine!
+
+4. Start building a design with your glue gun / any adhesive
+
+- I used glue gun just to make it simple. Also, since there won't be any lights, the glue won't be as apparent and it would be the lights who would have garner more attention. You may opt for other adhesive if you're not okay with having the spiderwebs of the glue gun.
+
+5. Enjoy and take it to prom!
+- Here's a picture of me with it:
+
+![alt text](Screenshots/IMG_3716.png)
+
+
 
 ## 3D Printing
 3D Printing this will be through printing legion. The side compartments can be 3D printed using a normal FDM printer.

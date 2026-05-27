@@ -234,3 +234,17 @@ Anyways I will remodel em to have snap fits
 
 ![alt text](Screenshots/cyberpunk_snap_fits.png)
 
+
+# Entry 8 - 05-08-26: Actually making the design of the mask
+
+Okay, so I am trying to outline  where the EL wires should go through, what holes should I make, and what pattern?
+
+I'm currently having a hard time thinking of an original pattern because I have no set theme on this.  But maybe I can start thinking of a good theme first.
+
+Okay so I have 2 options:
+1. I can keep continue using my 3d printed base mask, which i am honestly not sure if its worth using anymore cuz the side compartment 3d prints are a fail. That basically means that im only going to have an EL wire, and honestly, deciding a pattern for the mask will be kinda hard. I'm not sure if i should just make a cool outline like the one i bought from the shop.
+2. I use a designed mask I bought form a shop which looks amazing. I can just add the EL wires to the sides and it'll look even more amazing and cool. Plus, the color matches each other so yeah.
+
+# Entry 9 - 05-27-26 - Making the final masquerade mask
+
+Okay so 
