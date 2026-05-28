@@ -31,7 +31,7 @@ Anyways! That's pretty much it for now. More features will come once the 3D prin
 
 ## Make one yourself!
 
-The fully 
+The mask I brought to prom unfortunately didn't have anything else but the plain mask and the electroluminescent wires. Due to time constraints, I wasn't able to integrate it with the side compartments.
 
 1. Go into CadDesign folder and install Plan_Mask.stl
 
