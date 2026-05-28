@@ -16,27 +16,18 @@ Anyways! That's pretty much it for now. More features will come once the 3D prin
 
 ![alt text](Screenshots/masque_magazine.jpg)
 
+## Schematic
+![alt text](Screenshots/schematic.png)
+
 ## CAD
 
 ### Base Mask
 
 ![alt text](Screenshots/base_mask.png)
 
-### Side Compartment 1 - Cyberpunk 
-![alt text](Screenshots/final_design_side_compartment_1.png)
+### Final Mask with Lights Render:
 
-### Side Compartment 2 - Lotus
-
-![alt text](Screenshots/lotus_design.png)
-
-### Draft Design 1 - Cyberpunk
-![alt text](Screenshots/01.png)
-
-
-### Draft Design 2 - Lotus
-![alt text](Screenshots/02.png)
-
-Notice: No lights yet because I can't seem to find a way to add lights to Fusion360 while rendering.
+![alt text](Screenshots/final_render.png)
 
 ## Make one yourself!
 
@@ -67,7 +58,7 @@ The fully
 
 ## BOM
 
-![BOM](masqueBOM.csv)
+[BOM](BOM.csv)
 
 ## Support
 

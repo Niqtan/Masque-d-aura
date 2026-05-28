@@ -247,4 +247,21 @@ Okay so I have 2 options:
 
 # Entry 9 - 05-27-26 - Making the final masquerade mask
 
-Okay so 
+Okay so I lowkey kinda disregarded like most of the stuff here.
+
+In the final mask, I only used the base mask that I 3D printed and an electroluminescent wires. Prom was up and coming so I had to make a mask real quick.
+
+So in the pictures & lapse, you can see I only built a mask with an electroluminescent wire. Unfortunately had no time to put the side compartments and stuff and other electronics.
+
+Nevertheless, it was an amazing build! Alotta people said I was cool that night!
+
+# Entry 10 - 05-28-26 - Making some final changes
+
+Okay so for this journal I've been trying to resubmit my project (its been almost a month lmao).
+
+I've made the schematic and also rendered with the lights. Pretty proud with this!
+
+![alt text](Screenshots/final_render.png)
+
+
+![alt text](Screenshots/schematic.png)
