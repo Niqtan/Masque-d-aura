@@ -14,7 +14,7 @@ Anyways! That's pretty much it for now. More features will come once the 3D prin
 
 ## Zine Page
 
-![alt text](Screenshots/masque_magazine.jpg)
+![alt text](Screenshots/masque_magazine.png)
 
 ## Schematic
 ![alt text](Screenshots/schematic.png)
